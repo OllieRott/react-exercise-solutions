@@ -1,0 +1,15 @@
+.drink-item-container {
+    display: flex;
+    align-items: left;
+}
+
+.drink-item-container img {
+    width: 100px;
+    height: 100px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.drink-name {
+    padding: 50px 0 0 50px;
+}
